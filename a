@@ -1,0 +1,66 @@
+3378114192258158
+
+Url
+https://lianmengapi-hl.snssdk.com/live/promotions/pop/?version_code=10.9.0&pass-region=0&js_sdk_version=1.61.0.7&pass-route=0&webcast_sdk_version=1500&app_name=aweme&vid=3D51E3EE-A3CC-4738-BA5E-DADA67FD23E8&app_version=10.9.0&language=zh-Hans-CN&device_id=3378114192258158&channel=App%20Store&mcc_mnc=&aid=1128&effect_sdk_version=6.6.0&screen_width=375&openudid=851a127ebb4968498398fcb40bb763d8553f7c27&cdid=3934EEF4-BD61-42EF-98F9-8FFCD44CAC7B&os_api=18&webcast_language=zh&ac=WIFI&os_version=10.0.2&webcast_locale=zh-Hans_CN&device_platform=iphone&build_number=109013&iid=1108722192757127&device_type=iPhone%206S&is_vcd=1&idfa=554D5728-BF8D-4131-BFE7-9A22A1D3ACAA&op_type=0&author_id=3249753514836668&entrance_info=%257B%2522carrier_type%2522%253A%2522live_bubble%2522%2C%2522enter_from_merge%2522%253A%2522live_merge%2522%2C%2522room_id%2522%253A%25226919779886978796295%2522%2C%2522request_id%2522%253A%2522202101201840460100230202270C412492%2522%2C%2522enter_from%2522%253A%2522live%2522%2C%2522category_name%2522%253A%2522live_merge_temai_live_cover%2522%2C%2522anchor_id%2522%253A%25223249753514836668%2522%2C%2522enter_method%2522%253A%2522live_cover%2522%2C%2522follow_status%2522%253Afalse%257D&room_id=6919779886978796295
+Request
+Host	
+lianmengapi-hl.snssdk.com
+Connection	
+keep-alive
+sdk-version	
+1
+User-Agent	
+Aweme 10.9.0 rv:109013 (iPhone; iOS 10.0.2; zh_CN) Cronet
+X-SS-DP	
+1128
+x-tt-trace-id	
+00-1fa9052d0dc00608070b46efa4c50468-1fa9052d0dc00608-01
+Accept-Encoding	
+gzip
+Cookie	
+install_id=1108722192757127; ttreq=1$91f7edc8fffc8f59799347fab0712d85fb1575fa; odin_tt=61c8c7ecbaf9325630c1866136be675c66e575a8d2cf7a00cfb257119e09e5ea9bfad4aefa83cc8ee2180fe3d277fc36e2c3b7dba3c7a9d24f70abeac35a49a3; passport_csrf_token=d0cfb9df01977ac3fd222d00eae7fd8d; passport_csrf_token_default=d0cfb9df01977ac3fd222d00eae7fd8d
+X-Khronos	
+1611143906
+X-Gorgon	
+840260b94000727ca748519da213ed522de7616c42ffdbe93246
+Response
+Server	
+Tengine
+Content-Type	
+application/json; charset=utf-8
+Transfer-Encoding	
+chunked
+Connection	
+keep-alive
+Date	
+Wed, 20 Jan 2021 11:58:26 GMT
+Vary	
+Accept-Encoding
+bd-tt-error-code	
+0
+status_code	
+0
+tt_stable	
+1
+x-tt-logid	
+202101201958260101450240801C15C733
+tt-idc-switch	
+10000@20210120020
+Access-Control-Expose-Headers	
+tt-idc-switch
+server-timing	
+inner; dur=32
+x-tt-trace-host	
+0194b0b51df03d0cd7f5845a75d8ff18e0d798a7dbad10b644c59c606b8497db8a6393b4357959e3d962199e7c59174705e6840021e9ab1f68292fc44fcec2c6839171faab3cbf48e228db56c6cc9ba32f
+x-tt-trace-tag	
+id=3;cdn-cache=miss
+x-tt-trace-id	
+00-1fa9052d0dc00608070b46efa4c50468-1fa9052d0dc00608-01
+Content-Encoding	
+gzip
+Via	
+vcache32.cn2012[78,0]
+Timing-Allow-Origin	
+*
+EagleId	
+3b24e23416111439064222196e
